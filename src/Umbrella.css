@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  padding:10px;
+  margin:10px;
+
+}
+.container_content{
+  padding:70px;
+}
+.container_dot{
+  height: 25px;
+  width: 25px;
+  margin:5px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.container_brand{
+  position: absolute;
+  margin: 14% 7%;
+}
